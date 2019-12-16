@@ -2,7 +2,7 @@ Go style guide
 
 ---
 
-[원문](https://about.sourcegraph.com/handbook/engineering/go_style_guide)
+[원문/Source Document](https://about.sourcegraph.com/handbook/engineering/go_style_guide)
 
 이 글은 Sourcegraph에서 사용하고 있는 스타일 가이드를 요약한 글이다. 코드 이외 (non-code)의 스타일 가이드에 대해서는 다음을 참고하기 바란다: [CodeReviewComments](https://about.sourcegraph.com/handbook/communication/style_guide)
 본 문서는 스타일 가이드에 대한 모든 것을 망라하고 있지는 않는다. 따라서 여기서 다루지 않는 부분은 [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments) 혹은 [Effective Go](http://golang.org/doc/effective_go.html)을 후에 참고하기 바란다.
